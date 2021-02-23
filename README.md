@@ -1,3 +1,5 @@
+[![.NET](https://github.com/ternista/questionnaire-api/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ternista/questionnaire-api/actions/workflows/dotnet.yml)
+
 # Questionnaire Api
 
 ## API Documentation
